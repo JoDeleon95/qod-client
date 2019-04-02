@@ -1,4 +1,6 @@
 <resources>
   <string name="app_name">Random Quotes</string>
   <string name="base_url">http://10.0.2.2:8080/rest/qod/</string>
+  <string name="client_id">222307185462-h2vf4ecra63t7psnlnm3s7qi6hd74mpg.apps.googleusercontent.com</string>
+  <string name="sign_in_error">sign_in_error</string>
 </resources>
